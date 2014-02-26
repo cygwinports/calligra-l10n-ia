@@ -1,0 +1,14 @@
+inherit kde4
+
+NAME="calligra-l10n-ia"
+VERSION=2.7.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Calligra Suite Interlingua translation files"
+DESCRIPTION="Calligra Suite Interlingua translation files"
+HOMEPAGE="http://calligra-suite.org/"
+SRC_URI="mirror://kde/stable/calligra-${VERSION}/calligra-l10n/${NAME}-${VERSION}.tar.xz"
+
+ARCH=noarch
+
+ARCH=noarch
